@@ -26,7 +26,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>Alekya <br />Maddu</h1>
-        <h2>Frontend Developer</h2>      
+        <h2>Software Developer</h2>      
       <span>
         <a href="https://codepen.io/Alekya-the-solid" target="_blank">
         <img src={codePenIcon} alt="Codepen Icon"/></a>
